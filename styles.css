@@ -109,6 +109,10 @@ section {
     align-items: center;
 }
 
+.sec-elements p {
+    text-align: center;
+}
+
 .btn {
     border: 2px solid black;
     margin: 30px;

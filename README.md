@@ -17,7 +17,7 @@ This website is a landing page for Watch PRO, showcasing my skills and experienc
 - Responsive design that works on various screen sizes
 - Clean and modern layout
 - Interactive elements (e.g., buttons, forms)
-- Accessibility considerations
+- Fixed menubar for easu navigation
 
 ## Demo
 ### Desktop or Laptop view

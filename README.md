@@ -36,6 +36,8 @@ This website is a landing page for Watch PRO, showcasing my skills and experienc
 
 ### Mobile view
 ---
+<img src="![Screenshot 2024-09-19 131906](https://github.com/user-attachments/assets/867f5597-f1a4-4502-bae0-ba9ce435bced)" alt="Description of the image" width="500"/>
+
 ![Screenshot 2024-09-19 131906](https://github.com/user-attachments/assets/867f5597-f1a4-4502-bae0-ba9ce435bced)
 ![Screenshot 2024-09-19 131937](https://github.com/user-attachments/assets/c7e2021f-d12d-4909-bc33-a6a25be96bc8)
 ![Screenshot 2024-09-19 131953](https://github.com/user-attachments/assets/1f6b5477-868f-4ecc-bc27-6a23d2f4e1ca)

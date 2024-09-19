@@ -10,14 +10,14 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-la
 To view this project, simply clone this repository and open the index.html file in your web browser.
 
 ## Usage
-This website is a landing page for Watch PRO, showcasing my skills and experience in web development. You can use it as a template for your landing page.
+This website is a landing page for Watch PRO, showcasing my skills and experience in web development. You can use it as a template for your own landing page.
 
 ## Features
 
 - Responsive design that works on various screen sizes
 - Clean and modern layout
 - Interactive elements (e.g., buttons, forms)
-- Fixed menubar for easu navigation
+- Fixed menubar for easy navigation
 
 ## Demo
 ### Desktop or Laptop view

@@ -29,23 +29,21 @@ This website is a landing page for Watch PRO, showcasing my skills and experienc
 
 ### Tablet View
 ---
-![Screenshot 2024-09-19 132228](https://github.com/user-attachments/assets/7b6e6e09-b0bd-45e9-af3b-650bdaddcc23)
-![Screenshot 2024-09-19 132249](https://github.com/user-attachments/assets/4b8364b0-fbbc-4a06-bd43-8251185ca0a1)
-![Screenshot 2024-09-19 132302](https://github.com/user-attachments/assets/c62664d1-cad9-4df9-975a-997b9826994e)
-![Screenshot 2024-09-19 132311](https://github.com/user-attachments/assets/ea1a93f1-2155-44c0-a679-8cf5b438d2fb)
+<img src="https://github.com/user-attachments/assets/7b6e6e09-b0bd-45e9-af3b-650bdaddcc23" alt="Description of the image" width="600"/>
+<img src="https://github.com/user-attachments/assets/4b8364b0-fbbc-4a06-bd43-8251185ca0a1" alt="Description of the image" width="600"/>
+<img src="https://github.com/user-attachments/assets/c62664d1-cad9-4df9-975a-997b9826994e" alt="Description of the image" width="600"/>
+<img src="https://github.com/user-attachments/assets/ea1a93f1-2155-44c0-a679-8cf5b438d2fb" alt="Description of the image" width="600"/>
 
 ### Mobile view
 ---
-<img src="https://github.com/user-attachments/assets/867f5597-f1a4-4502-bae0-ba9ce435bced" alt="Description of the image" width="100"/>
-
-![Screenshot 2024-09-19 131906](https://github.com/user-attachments/assets/867f5597-f1a4-4502-bae0-ba9ce435bced)
-![Screenshot 2024-09-19 131937](https://github.com/user-attachments/assets/c7e2021f-d12d-4909-bc33-a6a25be96bc8)
-![Screenshot 2024-09-19 131953](https://github.com/user-attachments/assets/1f6b5477-868f-4ecc-bc27-6a23d2f4e1ca)
-![Screenshot 2024-09-19 132004](https://github.com/user-attachments/assets/89a9be88-9185-413c-b097-918861dd4587)
-![Screenshot 2024-09-19 132014](https://github.com/user-attachments/assets/e025abd3-ee3f-4f96-ab4f-62a52bd31f9f)
-![Screenshot 2024-09-19 132023](https://github.com/user-attachments/assets/24e18a32-8718-400e-9132-25c9680f0fb3)
-![Screenshot 2024-09-19 132137](https://github.com/user-attachments/assets/d126e07d-6cc4-4b3c-8f2a-57d667276978)
-![Screenshot 2024-09-19 132145](https://github.com/user-attachments/assets/2944fdf7-1e97-4c3a-ad82-2f583b539ae1)
+<img src="https://github.com/user-attachments/assets/867f5597-f1a4-4502-bae0-ba9ce435bced" alt="Description of the image" width="200"/>
+<img src="https://github.com/user-attachments/assets/c7e2021f-d12d-4909-bc33-a6a25be96bc8" alt="Description of the image" width="200"/>
+<img src="https://github.com/user-attachments/assets/1f6b5477-868f-4ecc-bc27-6a23d2f4e1ca" alt="Description of the image" width="200"/>
+<img src="https://github.com/user-attachments/assets/89a9be88-9185-413c-b097-918861dd4587" alt="Description of the image" width="200"/>
+<img src="https://github.com/user-attachments/assets/e025abd3-ee3f-4f96-ab4f-62a52bd31f9f" alt="Description of the image" width="200"/>
+<img src="https://github.com/user-attachments/assets/24e18a32-8718-400e-9132-25c9680f0fb3" alt="Description of the image" width="200"/>
+<img src="https://github.com/user-attachments/assets/d126e07d-6cc4-4b3c-8f2a-57d667276978" alt="Description of the image" width="200"/>
+<img src="https://github.com/user-attachments/assets/2944fdf7-1e97-4c3a-ad82-2f583b539ae1" alt="Description of the image" width="200"/>
 
 ## FCC User Story
 The project meets the following user stories:

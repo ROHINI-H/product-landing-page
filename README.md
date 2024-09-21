@@ -29,10 +29,10 @@ This website is a landing page for Watch PRO, showcasing my skills and experienc
 
 ### Tablet View
 ---
-<img src="https://github.com/user-attachments/assets/7b6e6e09-b0bd-45e9-af3b-650bdaddcc23" alt="Description of the image" width="600"/>
-<img src="https://github.com/user-attachments/assets/4b8364b0-fbbc-4a06-bd43-8251185ca0a1" alt="Description of the image" width="600"/>
-<img src="https://github.com/user-attachments/assets/c62664d1-cad9-4df9-975a-997b9826994e" alt="Description of the image" width="600"/>
-<img src="https://github.com/user-attachments/assets/ea1a93f1-2155-44c0-a679-8cf5b438d2fb" alt="Description of the image" width="600"/>
+<img src="https://github.com/user-attachments/assets/7b6e6e09-b0bd-45e9-af3b-650bdaddcc23" alt="Description of the image" width="400"/>
+<img src="https://github.com/user-attachments/assets/4b8364b0-fbbc-4a06-bd43-8251185ca0a1" alt="Description of the image" width="400"/>
+<img src="https://github.com/user-attachments/assets/c62664d1-cad9-4df9-975a-997b9826994e" alt="Description of the image" width="400"/>
+<img src="https://github.com/user-attachments/assets/ea1a93f1-2155-44c0-a679-8cf5b438d2fb" alt="Description of the image" width="400"/>
 
 ### Mobile view
 ---

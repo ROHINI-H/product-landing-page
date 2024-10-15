@@ -1,25 +1,25 @@
-# FreeCodeCamp Project: Build a Product Landing Page
+# 👩🏻‍💻FreeCodeCamp Project: Build a Product Landing Page
 
-## Description
+## 🗒️Description
 This repository contains my solution to the FreeCodeCamp "Build a Product Landing Page" challenge as part of Responsive Web Design Course. The goal of this project is to create a responsive product landing webpage that showcases my skills and experience. I have designed the landing Webpage for sample organisation WATCH PRO to display their products.
 
-## FCC Challenge Link
+## 🏆FCC Challenge Link
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page
 
-## Installation
+## 🌠Installation
 To view this project, simply clone this repository and open the index.html file in your web browser.
 
-## Usage
+## 🌟Usage
 This website is a landing page for Watch PRO, showcasing my skills and experience in web development. You can use it as a template for your own landing page.
 
-## Features
+## 🌈Features
 
 - Responsive design that works on various screen sizes
 - Clean and modern layout
 - Interactive elements (e.g., buttons, forms)
 - Fixed menubar for easy navigation
 
-## Demo
+## 🌸Demo
 ### Desktop or Laptop view
 ![Screenshot 2024-09-19 131512](https://github.com/user-attachments/assets/d0217e2e-ac51-4bb0-a232-8f264b8faa03)
 ![Screenshot 2024-09-19 131532](https://github.com/user-attachments/assets/e0657abe-6f94-445b-a44d-907d78551c19)
@@ -45,7 +45,7 @@ This website is a landing page for Watch PRO, showcasing my skills and experienc
 <img src="https://github.com/user-attachments/assets/d126e07d-6cc4-4b3c-8f2a-57d667276978" alt="Description of the image" width="200"/>
 <img src="https://github.com/user-attachments/assets/2944fdf7-1e97-4c3a-ad82-2f583b539ae1" alt="Description of the image" width="200"/>
 
-## FCC User Story
+## 🛸FCC User Story
 The project meets the following user stories:
 
 1. Your product landing page should have a header element with a corresponding id="header"
@@ -66,14 +66,14 @@ The project meets the following user stories:
 
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
-## Contributing
+## 🫱🏼‍🫲🏼Contributing
 If you'd like to contribute to this project, please fork this repository and submit a pull request. You can also report issues or suggest improvements by opening an issue.
 
-## License
+## 🔏License
 This project is licensed under the MIT License.
 
-## Acknowledgments
+## 🙇🏻‍♀️Acknowledgments
 Special thanks to FreeCodeCamp for providing the challenge and resources to learn web development.
 
-## Connect with me
+## 🚀Connect with me
 If you'd like to learn more about my work or connect professionally, you can find me on LinkedIn: www.linkedin.com/in/rohini-h
